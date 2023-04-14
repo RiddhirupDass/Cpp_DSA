@@ -4,7 +4,9 @@
         "stdexcept": "cpp",
         "iostream": "cpp",
         "*.tcc": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
